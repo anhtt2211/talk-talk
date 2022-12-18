@@ -2,7 +2,7 @@
   "name": "react-sdk-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lab.videosdk.live/react-rtc-demo/",
+  "homepage": "https://talk-talk-phi.vercel.app/",
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.2",
