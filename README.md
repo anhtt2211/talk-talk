@@ -101,3 +101,8 @@ There are 2 folders :
 
 1. [`meeting`](https://github.com/anhtt2211/talk-talk/tree/develop/src/meeting) - This folder includes components or file related to meeting.
 2. [`interactive-live-streaming`](https://github.com/anhtt2211/talk-talk/tree/develop/src/interactive-live-streaming) - This folder includes all components or file related to Interactive Live Streaming.
+
+## Authors
+
+- [Trần Thế Anh](https://github.com/anhtt2211/)
+- [Phan Ngọc Quang](https://github.com/quangpn24/)
